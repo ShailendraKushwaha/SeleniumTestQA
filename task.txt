@@ -1,0 +1,8 @@
+https://react-redux-grid.herokuapp.com/Tree
+https://react-redux-grid.herokuapp.com/Complex
+
+Implement page objects to work with grid component on both pages.
+Implement 3 most important test cases for each grid.
+Tests should use Selenium to work with browser.
+Tests should be ready to run headless on linux.
+Language, frameworks and build tool is up to you.
